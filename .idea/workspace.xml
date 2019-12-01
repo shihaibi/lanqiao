@@ -1,12 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a72c03e7-ec50-4497-a1a3-6fd9d8a1368f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/贪心策略与动态规划/区间选点问题.java" afterDir="false" />
+    <list default="true" id="ffd31839-302b-413c-9514-bbb3789bd850" name="Default Changelist" comment="some">
+      <change afterPath="$PROJECT_DIR$/src/java基础/JoinTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java基础/StaticProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java基础/SynchronizedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java基础/ThreadTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/CCF/字符画.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/CCF/字符画.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/CCF/小明种苹果.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/CCF/小明种苹果.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/CCF/小明种苹果续.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/CCF/小明种苹果续.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/META-INF/lanqiao.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/java基础/DataTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/java基础/DataTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/java基础/ObjectStreamTest$A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/java基础/ObjectStreamTest$A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/java基础/ObjectStreamTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/java基础/ObjectStreamTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/java基础/testReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/java基础/testReader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/java基础/testWriter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/java基础/testWriter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/字符串/Period周期性.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/字符串/Period周期性.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/字符串/hiho字符串.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/字符串/hiho字符串.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/字符串/最长重复子串$Sa.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/字符串/最长重复子串$Sa.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/字符串/最长重复子串.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/字符串/最长重复子串.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/数学问题/A除以B.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/数学问题/A除以B.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/数学问题/埃氏素数筛法.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/数学问题/埃氏素数筛法.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/数学问题/巧用进制.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/数学问题/巧用进制.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/数学问题/快速求a的n次方.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/数学问题/快速求a的n次方.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/数学问题/裴蜀公式.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/数学问题/裴蜀公式.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/数学问题/质因数分解.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/数学问题/质因数分解.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/数学问题/阶梯Nim问题.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/数学问题/阶梯Nim问题.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/数学问题/青蛙的约会.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/数学问题/青蛙的约会.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/计算机能力挑战赛Java语言/编程一.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/计算机能力挑战赛Java语言/编程一.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/计算机能力挑战赛Java语言/编程三.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/计算机能力挑战赛Java语言/编程三.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/计算机能力挑战赛Java语言/编程二.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/计算机能力挑战赛Java语言/编程二.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/计算机能力挑战赛Java语言/编程五$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/计算机能力挑战赛Java语言/编程五$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/计算机能力挑战赛Java语言/编程五$wuzi.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/计算机能力挑战赛Java语言/编程五$wuzi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/计算机能力挑战赛Java语言/编程五.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/计算机能力挑战赛Java语言/编程五.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/计算机能力挑战赛Java语言/编程四$group.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/计算机能力挑战赛Java语言/编程四$group.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/计算机能力挑战赛Java语言/编程四.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/计算机能力挑战赛Java语言/编程四.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/贪心策略与动态规划/区间调度问题$1.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/lanqiao/贪心策略与动态规划/区间调度问题$Problem.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/贪心策略与动态规划/区间调度问题$Problem.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/lanqiao/贪心策略与动态规划/区间调度问题.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/贪心策略与动态规划/区间调度问题.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/贪心策略与动态规划/区间选点问题$Problem.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/贪心策略与动态规划/区间选点问题$Problem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/贪心策略与动态规划/区间选点问题.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/贪心策略与动态规划/区间选点问题.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/贪心策略与动态规划/快速渡河问题.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/贪心策略与动态规划/快速渡河问题.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/贪心策略与动态规划/硬币问题.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/贪心策略与动态规划/硬币问题.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/递归和深度优先搜索/n皇后问题.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/递归和深度优先搜索/n皇后问题.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/递归和深度优先搜索/全排列第k个排列.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/递归和深度优先搜索/全排列第k个排列.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/递归和深度优先搜索/合法括号.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/递归和深度优先搜索/合法括号.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/递归和深度优先搜索/困难的串.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/递归和深度优先搜索/困难的串.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/递归和深度优先搜索/子集生成.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/递归和深度优先搜索/子集生成.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/递归和深度优先搜索/字符全排列.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/递归和深度优先搜索/字符全排列.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/递归和深度优先搜索/数独游戏.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/递归和深度优先搜索/数独游戏.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/递归和深度优先搜索/机器人走方格.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/递归和深度优先搜索/机器人走方格.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/递归和深度优先搜索/水洼数目.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/递归和深度优先搜索/水洼数目.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/递归和深度优先搜索/素数环.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/递归和深度优先搜索/素数环.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/递归和深度优先搜索/走楼梯.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/递归和深度优先搜索/走楼梯.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/递归和深度优先搜索/部分和.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/递归和深度优先搜索/部分和.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,7 +66,6 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -25,18 +73,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1TW6ik9WX53JWwKmxpyvQNJI8FJ" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+  <component name="ProjectId" id="1UO7yKFF4GdVwx3cy0oRassMADA" />
+  <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -50,13 +93,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.n皇后问题">
-    <configuration name="部分和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="递归和深度优先搜索.部分和" />
+  <component name="RunManager" selected="Application.SynchronizedTest">
+    <configuration name="JoinTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java基础.JoinTest" />
       <module name="lanqiao" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="递归和深度优先搜索.*" />
+          <option name="PATTERN" value="java基础.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="素数环" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="递归和深度优先搜索.素数环" />
+    <configuration name="StaticProxy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java基础.StaticProxy" />
       <module name="lanqiao" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="递归和深度优先搜索.*" />
+          <option name="PATTERN" value="java基础.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="机器人走方格" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="递归.机器人走方格" />
+    <configuration name="SynchronizedTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java基础.SynchronizedTest" />
       <module name="lanqiao" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="递归.*" />
+          <option name="PATTERN" value="java基础.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,272 +133,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="小明种苹果" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CCF.小明种苹果" />
+    <configuration name="ThreadTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java基础.ThreadTest" />
       <module name="lanqiao" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CCF.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="小明种苹果续" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CCF.小明种苹果续" />
-      <module name="lanqiao" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="CCF.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="困难的串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="递归和深度优先搜索.困难的串" />
-      <module name="lanqiao" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="递归和深度优先搜索.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="巧用进制" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="数学问题.巧用进制" />
-      <module name="lanqiao" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="数学问题.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="合法括号" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="递归.合法括号" />
-      <module name="lanqiao" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="递归.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="硬币问题" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="贪心策略与动态规划.硬币问题" />
-      <module name="lanqiao" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="贪心策略与动态规划.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="快速渡河问题" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="贪心策略与动态规划.快速渡河问题" />
-      <module name="lanqiao" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="贪心策略与动态规划.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="字符全排列" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="递归.字符全排列" />
-      <module name="lanqiao" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="递归.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="区间调度问题" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="贪心策略与动态规划.区间调度问题" />
-      <module name="lanqiao" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="贪心策略与动态规划.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="走楼梯" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="递归.走楼梯" />
-      <module name="lanqiao" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="递归.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="埃氏素数筛法" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="数学问题.埃氏素数筛法" />
-      <module name="lanqiao" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="数学问题.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="机器人走方格" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="递归.机器人走方格" />
-      <module name="lanqiao" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="递归.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="编程四" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="计算机能力挑战赛C语言.编程四" />
-      <module name="lanqiao" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="计算机能力挑战赛C语言.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="区间选点问题" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="贪心策略与动态规划.区间选点问题" />
-      <module name="lanqiao" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="贪心策略与动态规划.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="裴蜀公式" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="数学问题.裴蜀公式" />
-      <module name="lanqiao" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="数学问题.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="编程二" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="计算机能力挑战赛C语言.编程二" />
-      <module name="lanqiao" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="计算机能力挑战赛C语言.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="编程三" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="计算机能力挑战赛C语言.编程三" />
-      <module name="lanqiao" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="计算机能力挑战赛C语言.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="字符画" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CCF.字符画" />
-      <module name="lanqiao" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="CCF.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="数独游戏" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="递归和深度优先搜索.数独游戏" />
-      <module name="lanqiao" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="递归和深度优先搜索.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="水洼数目" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="递归和深度优先搜索.水洼数目" />
-      <module name="lanqiao" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="递归和深度优先搜索.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="n皇后问题" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="递归和深度优先搜索.n皇后问题" />
-      <module name="lanqiao" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="递归和深度优先搜索.*" />
+          <option name="PATTERN" value="java基础.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -365,8 +148,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.n皇后问题" />
-        <item itemvalue="Application.部分和" />
+        <item itemvalue="Application.SynchronizedTest" />
+        <item itemvalue="Application.JoinTest" />
+        <item itemvalue="Application.StaticProxy" />
+        <item itemvalue="Application.ThreadTest" />
       </list>
     </recent_temporary>
   </component>
@@ -375,28 +160,13 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a72c03e7-ec50-4497-a1a3-6fd9d8a1368f" name="Default Changelist" comment="" />
-      <created>1573563633420</created>
+      <changelist id="ffd31839-302b-413c-9514-bbb3789bd850" name="Default Changelist" comment="" />
+      <created>1575097534209</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1573563633420</updated>
-      <workItem from="1573563640455" duration="15822000" />
-      <workItem from="1573626519556" duration="18039000" />
-      <workItem from="1573757752605" duration="1397000" />
-      <workItem from="1573759485056" duration="5641000" />
-      <workItem from="1573806056203" duration="9483000" />
-      <workItem from="1573840543300" duration="616000" />
-      <workItem from="1573918709563" duration="8179000" />
-      <workItem from="1573962914923" duration="1133000" />
-      <workItem from="1573970421082" duration="28461000" />
-      <workItem from="1574078081889" duration="3297000" />
-      <workItem from="1574167839765" duration="3447000" />
-      <workItem from="1574228986424" duration="18772000" />
-      <workItem from="1574355923636" duration="3292000" />
-      <workItem from="1574687081434" duration="2050000" />
-      <workItem from="1574832529659" duration="21316000" />
-      <workItem from="1574933061862" duration="8271000" />
-      <workItem from="1575013869258" duration="6317000" />
+      <updated>1575097534209</updated>
+      <workItem from="1575097535429" duration="10609000" />
+      <workItem from="1575216044387" duration="2890000" />
     </task>
     <servers />
   </component>
@@ -408,111 +178,17 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/字符串/hiho字符串.java</url>
-          <line>24</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/字符串/最长重复子串.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/字符串/最长重复子串.java</url>
-          <line>56</line>
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/字符串/最长重复子串.java</url>
-          <line>44</line>
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/数学问题/巧用进制.java</url>
-          <line>49</line>
-          <option name="timeStamp" value="13" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/CCF/字符画.java</url>
-          <line>31</line>
-          <option name="timeStamp" value="19" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/计算机能力挑战赛C语言/编程二.java</url>
-          <line>21</line>
-          <option name="timeStamp" value="20" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/计算机能力挑战赛Java语言/编程二.java</url>
-          <line>32</line>
-          <option name="timeStamp" value="21" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/计算机能力挑战赛Java语言/编程五.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="23" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/计算机能力挑战赛Java语言/编程四.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="24" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/数学问题/青蛙的约会.java</url>
-          <line>20</line>
-          <option name="timeStamp" value="25" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/数学问题/质因数分解.java</url>
-          <line>10</line>
-          <option name="timeStamp" value="26" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/数学问题/质因数分解.java</url>
-          <line>24</line>
-          <option name="timeStamp" value="27" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/数学问题/埃氏素数筛法.java</url>
-          <line>16</line>
-          <option name="timeStamp" value="29" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/递归和深度优先搜索/部分和.java</url>
-          <line>17</line>
-          <option name="timeStamp" value="34" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/递归和深度优先搜索/n皇后问题.java</url>
-          <line>9</line>
-          <option name="timeStamp" value="35" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/贪心策略与动态规划/快速渡河问题.java</url>
-          <line>12</line>
-          <option name="timeStamp" value="39" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/贪心策略与动态规划/区间选点问题.java</url>
-          <line>21</line>
-          <option name="timeStamp" value="40" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/lanqiao$.ic" NAME="编程五 Coverage Results" MODIFIED="1573976103217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>计算机能力挑战赛Java语言.*</FILTER>
-    </SUITE>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="一些改动" />
+    <MESSAGE value="some" />
+    <option name="LAST_COMMIT_MESSAGE" value="some" />
   </component>
 </project>
