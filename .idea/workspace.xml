@@ -1,61 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ffd31839-302b-413c-9514-bbb3789bd850" name="Default Changelist" comment="some">
-      <change afterPath="$PROJECT_DIR$/src/java基础/JoinTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java基础/StaticProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java基础/SynchronizedTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java基础/ThreadTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="ffd31839-302b-413c-9514-bbb3789bd850" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java基础/SynTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/贪心策略与动态规划/乘船问题.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/贪心策略与动态规划/字典序最小问题.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/贪心策略与动态规划/完全背包问题.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/贪心策略与动态规划/数字三角形问题.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/贪心策略与动态规划/最长上升子序列.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/贪心策略与动态规划/最长公共子序列问题.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/贪心策略与动态规划/最长递增子序列.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/贪心策略与动态规划/背包问题01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/贪心策略与动态规划/部分背包问题.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/CCF/字符画.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/CCF/字符画.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/CCF/小明种苹果.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/CCF/小明种苹果.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/CCF/小明种苹果续.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/CCF/小明种苹果续.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/META-INF/lanqiao.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/java基础/DataTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/java基础/DataTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/java基础/ObjectStreamTest$A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/java基础/ObjectStreamTest$A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/java基础/ObjectStreamTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/java基础/ObjectStreamTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/java基础/testReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/java基础/testReader.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/java基础/testWriter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/java基础/testWriter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/字符串/Period周期性.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/字符串/Period周期性.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/字符串/hiho字符串.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/字符串/hiho字符串.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/字符串/最长重复子串$Sa.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/字符串/最长重复子串$Sa.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/字符串/最长重复子串.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/字符串/最长重复子串.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/数学问题/A除以B.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/数学问题/A除以B.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/数学问题/埃氏素数筛法.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/数学问题/埃氏素数筛法.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/数学问题/巧用进制.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/数学问题/巧用进制.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/数学问题/快速求a的n次方.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/数学问题/快速求a的n次方.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/数学问题/裴蜀公式.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/数学问题/裴蜀公式.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/数学问题/质因数分解.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/数学问题/质因数分解.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/数学问题/阶梯Nim问题.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/数学问题/阶梯Nim问题.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/数学问题/青蛙的约会.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/数学问题/青蛙的约会.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/计算机能力挑战赛Java语言/编程一.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/计算机能力挑战赛Java语言/编程一.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/计算机能力挑战赛Java语言/编程三.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/计算机能力挑战赛Java语言/编程三.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/计算机能力挑战赛Java语言/编程二.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/计算机能力挑战赛Java语言/编程二.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/计算机能力挑战赛Java语言/编程五$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/计算机能力挑战赛Java语言/编程五$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/计算机能力挑战赛Java语言/编程五$wuzi.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/计算机能力挑战赛Java语言/编程五$wuzi.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/计算机能力挑战赛Java语言/编程五.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/计算机能力挑战赛Java语言/编程五.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/计算机能力挑战赛Java语言/编程四$group.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/计算机能力挑战赛Java语言/编程四$group.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/计算机能力挑战赛Java语言/编程四.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/计算机能力挑战赛Java语言/编程四.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/贪心策略与动态规划/区间调度问题$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/贪心策略与动态规划/区间调度问题$Problem.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/贪心策略与动态规划/区间调度问题$Problem.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/贪心策略与动态规划/区间调度问题.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/贪心策略与动态规划/区间调度问题.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/贪心策略与动态规划/区间选点问题$Problem.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/贪心策略与动态规划/区间选点问题$Problem.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/贪心策略与动态规划/区间选点问题.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/贪心策略与动态规划/区间选点问题.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/贪心策略与动态规划/快速渡河问题.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/贪心策略与动态规划/快速渡河问题.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/贪心策略与动态规划/硬币问题.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/贪心策略与动态规划/硬币问题.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/递归和深度优先搜索/n皇后问题.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/递归和深度优先搜索/n皇后问题.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/递归和深度优先搜索/全排列第k个排列.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/递归和深度优先搜索/全排列第k个排列.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/递归和深度优先搜索/合法括号.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/递归和深度优先搜索/合法括号.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/递归和深度优先搜索/困难的串.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/递归和深度优先搜索/困难的串.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/递归和深度优先搜索/子集生成.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/递归和深度优先搜索/子集生成.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/递归和深度优先搜索/字符全排列.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/递归和深度优先搜索/字符全排列.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/递归和深度优先搜索/数独游戏.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/递归和深度优先搜索/数独游戏.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/递归和深度优先搜索/机器人走方格.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/递归和深度优先搜索/机器人走方格.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/递归和深度优先搜索/水洼数目.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/递归和深度优先搜索/水洼数目.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/递归和深度优先搜索/素数环.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/递归和深度优先搜索/素数环.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/递归和深度优先搜索/走楼梯.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/递归和深度优先搜索/走楼梯.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/递归和深度优先搜索/部分和.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/递归和深度优先搜索/部分和.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java基础/SynchronizedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java基础/SynchronizedTest.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -93,13 +52,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SynchronizedTest">
-    <configuration name="JoinTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java基础.JoinTest" />
+  <component name="RunManager" selected="Application.最长上升子序列">
+    <configuration name="最长公共子序列问题" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="贪心策略与动态规划.最长公共子序列问题" />
       <module name="lanqiao" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java基础.*" />
+          <option name="PATTERN" value="贪心策略与动态规划.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,8 +66,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StaticProxy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java基础.StaticProxy" />
+    <configuration name="完全背包问题" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="贪心策略与动态规划.完全背包问题" />
+      <module name="lanqiao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="贪心策略与动态规划.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="最长上升子序列" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="贪心策略与动态规划.最长上升子序列" />
+      <module name="lanqiao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="贪心策略与动态规划.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SynTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java基础.SynTest" />
       <module name="lanqiao" />
       <extension name="coverage">
         <pattern>
@@ -133,25 +118,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java基础.ThreadTest" />
-      <module name="lanqiao" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="java基础.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.最长上升子序列" />
         <item itemvalue="Application.SynchronizedTest" />
-        <item itemvalue="Application.JoinTest" />
-        <item itemvalue="Application.StaticProxy" />
-        <item itemvalue="Application.ThreadTest" />
+        <item itemvalue="Application.SynTest" />
+        <item itemvalue="Application.完全背包问题" />
+        <item itemvalue="Application.最长公共子序列问题" />
       </list>
     </recent_temporary>
   </component>
@@ -166,8 +139,17 @@
       <option name="presentableId" value="Default" />
       <updated>1575097534209</updated>
       <workItem from="1575097535429" duration="10609000" />
-      <workItem from="1575216044387" duration="2890000" />
+      <workItem from="1575216044387" duration="3081000" />
+      <workItem from="1575261341977" duration="29610000" />
     </task>
+    <task id="LOCAL-00001" summary="some">
+      <created>1575218997766</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575218997766</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -190,5 +172,36 @@
     <MESSAGE value="一些改动" />
     <MESSAGE value="some" />
     <option name="LAST_COMMIT_MESSAGE" value="some" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/贪心策略与动态规划/背包问题01.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java基础/SynTest.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java基础/SynTest.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/贪心策略与动态规划/最长上升子序列.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/贪心策略与动态规划/最长上升子序列.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

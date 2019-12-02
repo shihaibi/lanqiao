@@ -12,7 +12,7 @@ public class SynchronizedTest {
     private static class Yinhang extends Thread{
         Account curAccount;
         int money;
-        static int count;
+        final static Integer count = 3;
         Yinhang (Account a, int b) {
             this.curAccount = a;
             this.money =b;
@@ -23,7 +23,7 @@ public class SynchronizedTest {
         }
 
         public void test() {
-            synchronized (this) {
+            synchronized (Yinhang.count) {
                 try {
                     System.out.println("他开始了");
                     this.money = 50000;
@@ -32,11 +32,14 @@ public class SynchronizedTest {
                     e.printStackTrace();
                 }
             }
-
         }
 
         public synchronized void setMoney(int money) {
             this.money = money;
+        }
+
+        public void getCount() {
+            System.out.println(Yinhang.count);
         }
     }
 
@@ -51,7 +54,12 @@ public class SynchronizedTest {
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
-        xiaoyinhang.setMoney(3000);
+        //xiaoyinhang.setMoney(3000);
+        xiaoyinhang.money = (3000);
+        synchronized (Yinhang.count) {
+            xiaoyinhang.getCount();
+        }
+
         System.out.println("chenggong");
 
 
