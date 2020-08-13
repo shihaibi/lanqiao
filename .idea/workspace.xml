@@ -2,14 +2,164 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ffd31839-302b-413c-9514-bbb3789bd850" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/java基础/Happy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CCF/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java基础/TCP/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java基础/TCP/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java基础/TCP/聊天室/Chat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java基础/TCP/聊天室/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java基础/UDP/Me.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java基础/UDP/Receive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java基础/UDP/Send.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java基础/UDP/Tiantian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java基础/UDP/UdpClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java基础/UDP/UdpServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java基础/UDP/UdpTypeClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java基础/UDP/UdpTypeServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/图结构/Dijkstra算法.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/图结构/Edge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/图结构/Kruskal算法.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/图结构/八连块.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/图结构/分酒问题.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/图结构/城市建设_Kruskal水题.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/图结构/拓扑排序.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/图结构/欧拉道路.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/图结构/连通检测.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/图结构/迷宫问题_BFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/图结构/通讯问题_最短路径.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/字符串/KMP算法.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/数组/manacher算法.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/数组/堆排序.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/数组/快速排序.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/树结构/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/树结构/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/树结构/两个节点的公共祖先.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/树结构/二叉树的最小深度.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/树结构/二叉树节点路径.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/树结构/判断二叉树是否为镜像.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/树结构/判断平衡二叉树.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/树结构/层次遍历.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/树结构/有序数组构建二叉搜索树.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/树结构/根到叶子的路径和.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/树结构/检查二叉树是否是二叉搜索树.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/树结构/翻转二叉树.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/树结构/非递归遍历.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/笔试题/vivo/可新种的花草.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/笔试题/vivo/工序.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/笔试题/vivo/最少测试次数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/笔试题/华为/二进制.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/笔试题/华为/匹配字符串.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/笔试题/华为/实习面试.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/笔试题/华为/明日之星.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/笔试题/华为/汽水瓶.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/笔试题/华为/编码数目.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/笔试题/华为/调用函数栈.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/笔试题/华为/购物单.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/笔试题/广联达/弱智题.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/笔试题/广联达/所有括号.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/笔试题/广联达/数组期望升序.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/笔试题/广联达/链表的中间节点.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/笔试题/快手/合并两个内容流.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/笔试题/快手/好序列的个数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/笔试题/快手/版本升级判定.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/笔试题/快手/计算累计平方和.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/笔试题/美团/不同行不同列最大值.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/笔试题/美团/伪中位数_快速排序应用.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/笔试题/美团/伪随机数判断循环.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/笔试题/美团/单科成绩优秀奖.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/笔试题/美团/字符串模式匹配.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/笔试题/美团/找第k小的排列组合.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/笔试题/美团/拓扑排序.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/笔试题/美团/美团骑手包裹区间分组.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/笔试题/美团/表达式求值.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/笔试题/趋势科技/环状链表.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/笔试题/阅文/FIFO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/笔试题/阅文/MD5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/笔试题/阅文/yichu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/笔试题/阅文/移除一个数使乘积最大.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/笔试题/阿里/勇士打怪兽.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/笔试题/阿里/城市最短路径问题.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/线性结构/分割链表.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/线性结构/删除单向链表中某个节点.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/线性结构/最小栈.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/线性结构/栈排序.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/线性结构/检查链表中回文.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/线性结构/环路的开头节点.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/线性结构/链表中的倒数第k个节点.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/线性结构/链表数字求和.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/CCF/字符画.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/CCF/字符画.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/CCF/小明种苹果.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/CCF/小明种苹果.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/CCF/小明种苹果续.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/CCF/小明种苹果续.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/java基础/DataTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/java基础/DataTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/java基础/ObjectStreamTest$A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/java基础/ObjectStreamTest$A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/java基础/ObjectStreamTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/java基础/ObjectStreamTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/java基础/testReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/java基础/testReader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/java基础/testWriter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/java基础/testWriter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/字符串/Period周期性.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/字符串/Period周期性.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/字符串/hiho字符串.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/字符串/hiho字符串.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/字符串/最长重复子串$Sa.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/字符串/最长重复子串$Sa.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/字符串/最长重复子串.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/字符串/最长重复子串.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/数学问题/A除以B.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/数学问题/A除以B.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/数学问题/埃氏素数筛法.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/数学问题/埃氏素数筛法.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/数学问题/巧用进制.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/数学问题/巧用进制.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/数学问题/快速求a的n次方.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/数学问题/快速求a的n次方.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/数学问题/裴蜀公式.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/数学问题/裴蜀公式.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/数学问题/质因数分解.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/数学问题/质因数分解.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/数学问题/阶梯Nim问题.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/数学问题/阶梯Nim问题.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/数学问题/青蛙的约会.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/数学问题/青蛙的约会.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/计算机能力挑战赛Java语言/编程一.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/计算机能力挑战赛Java语言/编程三.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/计算机能力挑战赛Java语言/编程二.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/计算机能力挑战赛Java语言/编程五$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/计算机能力挑战赛Java语言/编程五$wuzi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/计算机能力挑战赛Java语言/编程五.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/计算机能力挑战赛Java语言/编程四$group.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/计算机能力挑战赛Java语言/编程四.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/贪心策略与动态规划/区间调度问题$Problem.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/贪心策略与动态规划/区间调度问题$Problem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/贪心策略与动态规划/区间调度问题.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/贪心策略与动态规划/区间调度问题.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/贪心策略与动态规划/区间选点问题$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/贪心策略与动态规划/区间选点问题$Problem.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/贪心策略与动态规划/区间选点问题$Problem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/贪心策略与动态规划/区间选点问题.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/贪心策略与动态规划/区间选点问题.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/贪心策略与动态规划/快速渡河问题.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/贪心策略与动态规划/快速渡河问题.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/贪心策略与动态规划/硬币问题.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/贪心策略与动态规划/硬币问题.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/递归和深度优先搜索/n皇后问题.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/递归和深度优先搜索/n皇后问题.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/递归和深度优先搜索/全排列第k个排列.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/递归和深度优先搜索/全排列第k个排列.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/递归和深度优先搜索/合法括号.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/递归和深度优先搜索/合法括号.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/递归和深度优先搜索/困难的串.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/递归和深度优先搜索/困难的串.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/递归和深度优先搜索/子集生成.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/递归和深度优先搜索/子集生成.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/递归和深度优先搜索/字符全排列.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/递归和深度优先搜索/字符全排列.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/递归和深度优先搜索/数独游戏.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/递归和深度优先搜索/数独游戏.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/递归和深度优先搜索/机器人走方格.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/递归和深度优先搜索/机器人走方格.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/递归和深度优先搜索/水洼数目.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/递归和深度优先搜索/水洼数目.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/递归和深度优先搜索/素数环.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/递归和深度优先搜索/素数环.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/递归和深度优先搜索/走楼梯.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/递归和深度优先搜索/走楼梯.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/递归和深度优先搜索/部分和.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/递归和深度优先搜索/部分和.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/计算机能力挑战赛Java语言/编程一.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/计算机能力挑战赛Java语言/编程三.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/计算机能力挑战赛Java语言/编程二.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/计算机能力挑战赛Java语言/编程五.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/计算机能力挑战赛Java语言/编程四.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -26,8 +176,23 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="TODO_SCOPE" value="All Places" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="http.proxy" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\asdkill\IdeaProjects\lanqiao\src\图结构" />
+      <recent name="C:\Users\asdkill\IdeaProjects\lanqiao\src\树结构" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -41,13 +206,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Happy">
-    <configuration name="最长公共子序列问题" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="贪心策略与动态规划.最长公共子序列问题" />
+  <component name="RunManager" selected="Application.Solution">
+    <configuration name="堆排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="数组.堆排序" />
       <module name="lanqiao" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="贪心策略与动态规划.*" />
+          <option name="PATTERN" value="数组.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -55,12 +220,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Happy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java基础.Happy" />
+    <configuration name="MD5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="笔试题.阅文.MD5" />
       <module name="lanqiao" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java基础.*" />
+          <option name="PATTERN" value="笔试题.阅文.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +233,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SynTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java基础.SynTest" />
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CCF.Solution" />
       <module name="lanqiao" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java基础.*" />
+          <option name="PATTERN" value="CCF.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +246,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SynchronizedTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java基础.SynchronizedTest" />
+    <configuration name="栈排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="线性结构.栈排序" />
       <module name="lanqiao" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java基础.*" />
+          <option name="PATTERN" value="线性结构.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +259,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="完全背包问题" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="贪心策略与动态规划.完全背包问题" />
+    <configuration name="链表的中间节点" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="笔试题.广联达.链表的中间节点" />
       <module name="lanqiao" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="贪心策略与动态规划.*" />
+          <option name="PATTERN" value="笔试题.广联达.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +272,441 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="最长上升子序列" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="贪心策略与动态规划.最长上升子序列" />
+    <configuration name="欧拉道路" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="图结构.欧拉道路" />
       <module name="lanqiao" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="贪心策略与动态规划.*" />
+          <option name="PATTERN" value="图结构.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="单科成绩优秀奖" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="笔试题.美团.单科成绩优秀奖" />
+      <module name="lanqiao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="笔试题.美团.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="移除一个数使乘积最大" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="笔试题.阅文.移除一个数使乘积最大" />
+      <module name="lanqiao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="笔试题.阅文.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="不同行不同列最大值" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="笔试题.美团.不同行不同列最大值" />
+      <module name="lanqiao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="笔试题.美团.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="翻转二叉树" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="树结构.翻转二叉树" />
+      <module name="lanqiao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="树结构.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="拓扑排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="图结构.拓扑排序" />
+      <module name="lanqiao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="图结构.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="伪随机数判断循环" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="笔试题.美团.伪随机数判断循环" />
+      <module name="lanqiao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="笔试题.美团.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="城市最短路径问题" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="笔试题.阿里.城市最短路径问题" />
+      <module name="lanqiao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="笔试题.阿里.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="有序数组构建二叉搜索树" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="树结构.有序数组构建二叉搜索树" />
+      <module name="lanqiao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="树结构.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="层次遍历" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="树结构.层次遍历" />
+      <module name="lanqiao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="树结构.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="非递归遍历" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="树结构.非递归遍历" />
+      <module name="lanqiao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="树结构.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="环状链表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="笔试题.趋势科技.环状链表" />
+      <module name="lanqiao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="笔试题.趋势科技.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="判断二叉树是否为镜像" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="树结构.判断二叉树是否为镜像" />
+      <module name="lanqiao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="树结构.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="弱智题" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="笔试题.广联达.弱智题" />
+      <module name="lanqiao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="笔试题.广联达.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="二进制" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="笔试题.华为.二进制" />
+      <module name="lanqiao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="笔试题.华为.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="最少测试次数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="笔试题.vivo.最少测试次数" />
+      <module name="lanqiao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="笔试题.vivo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="匹配字符串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="笔试题.华为.匹配字符串" />
+      <module name="lanqiao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="笔试题.华为.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="版本升级判定" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="笔试题.快手.版本升级判定" />
+      <module name="lanqiao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="笔试题.快手.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="表达式求值" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="笔试题.美团.表达式求值" />
+      <module name="lanqiao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="笔试题.美团.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="八连块" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="图结构.八连块" />
+      <module name="lanqiao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="图结构.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="最小栈" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="线性结构.最小栈" />
+      <module name="lanqiao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="线性结构.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="编码数目" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="笔试题.华为.编码数目" />
+      <module name="lanqiao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="笔试题.华为.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="检查链表中回文" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="线性结构.检查链表中回文" />
+      <module name="lanqiao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="线性结构.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="链表数字求和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="线性结构.链表数字求和" />
+      <module name="lanqiao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="线性结构.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="检查二叉树是否是二叉搜索树" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="树结构.检查二叉树是否是二叉搜索树" />
+      <module name="lanqiao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="树结构.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="实习面试" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="笔试题.华为.实习面试" />
+      <module name="lanqiao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="笔试题.华为.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="工序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="笔试题.vivo.工序" />
+      <module name="lanqiao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="笔试题.vivo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="汽水瓶" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="笔试题.华为.汽水瓶" />
+      <module name="lanqiao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="笔试题.华为.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="字符串模式匹配" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="笔试题.美团.字符串模式匹配" />
+      <module name="lanqiao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="笔试题.美团.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="勇士打怪兽" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="笔试题.阿里.勇士打怪兽" />
+      <module name="lanqiao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="笔试题.阿里.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="层次遍历" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="树结构.层次遍历" />
+      <module name="lanqiao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="树结构.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="所有括号" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="笔试题.广联达.所有括号" />
+      <module name="lanqiao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="笔试题.广联达.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="判断平衡二叉树" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="树结构.判断平衡二叉树" />
+      <module name="lanqiao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="树结构.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="二叉树节点路径" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="树结构.二叉树节点路径" />
+      <module name="lanqiao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="树结构.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,10 +716,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Happy" />
-        <item itemvalue="Application.SynchronizedTest" />
-        <item itemvalue="Application.SynTest" />
-        <item itemvalue="Application.最长公共子序列问题" />
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.堆排序" />
+        <item itemvalue="Application.MD5" />
       </list>
     </recent_temporary>
   </component>
@@ -143,7 +736,86 @@
       <workItem from="1575216044387" duration="3081000" />
       <workItem from="1575261341977" duration="29843000" />
       <workItem from="1575372009946" duration="61000" />
-      <workItem from="1578048963199" duration="2018000" />
+      <workItem from="1578048963199" duration="2060000" />
+      <workItem from="1580208709912" duration="5130000" />
+      <workItem from="1580275086836" duration="6875000" />
+      <workItem from="1580390616969" duration="1055000" />
+      <workItem from="1580631143597" duration="3707000" />
+      <workItem from="1580737101940" duration="1430000" />
+      <workItem from="1582729746557" duration="188000" />
+      <workItem from="1582771556585" duration="16320000" />
+      <workItem from="1582804910183" duration="406000" />
+      <workItem from="1582867545905" duration="624000" />
+      <workItem from="1582955699321" duration="3314000" />
+      <workItem from="1582971991615" duration="12271000" />
+      <workItem from="1583047114020" duration="17162000" />
+      <workItem from="1583220203693" duration="16939000" />
+      <workItem from="1583305348403" duration="15630000" />
+      <workItem from="1583329951503" duration="645000" />
+      <workItem from="1583825802916" duration="28077000" />
+      <workItem from="1583909917899" duration="16155000" />
+      <workItem from="1584000175727" duration="7545000" />
+      <workItem from="1584095332205" duration="3354000" />
+      <workItem from="1584101075954" duration="8754000" />
+      <workItem from="1584171124657" duration="26295000" />
+      <workItem from="1584253410705" duration="8560000" />
+      <workItem from="1584264599126" duration="15676000" />
+      <workItem from="1584423250043" duration="32716000" />
+      <workItem from="1584522103930" duration="16199000" />
+      <workItem from="1584608109093" duration="25511000" />
+      <workItem from="1584692086063" duration="30210000" />
+      <workItem from="1584778595897" duration="3212000" />
+      <workItem from="1584782281869" duration="7295000" />
+      <workItem from="1584791134210" duration="4953000" />
+      <workItem from="1584863107329" duration="32163000" />
+      <workItem from="1584953283835" duration="28906000" />
+      <workItem from="1585066551879" duration="8692000" />
+      <workItem from="1585154949984" duration="1659000" />
+      <workItem from="1585558117001" duration="181000" />
+      <workItem from="1586334667406" duration="3904000" />
+      <workItem from="1586619756603" duration="219000" />
+      <workItem from="1586627835315" duration="3179000" />
+      <workItem from="1586678362346" duration="4467000" />
+      <workItem from="1586767194157" duration="13593000" />
+      <workItem from="1586846364854" duration="3032000" />
+      <workItem from="1586937131847" duration="22794000" />
+      <workItem from="1587025160864" duration="15944000" />
+      <workItem from="1587307405778" duration="693000" />
+      <workItem from="1587380754545" duration="5403000" />
+      <workItem from="1587523085226" duration="3380000" />
+      <workItem from="1587546272038" duration="39000" />
+      <workItem from="1587614771516" duration="387000" />
+      <workItem from="1587615445382" duration="1681000" />
+      <workItem from="1587618670293" duration="1341000" />
+      <workItem from="1587621119410" duration="1198000" />
+      <workItem from="1587735425080" duration="2882000" />
+      <workItem from="1587789586967" duration="30286000" />
+      <workItem from="1587904277566" duration="14906000" />
+      <workItem from="1587996398342" duration="19850000" />
+      <workItem from="1588083933101" duration="1404000" />
+      <workItem from="1588167460756" duration="22242000" />
+      <workItem from="1588265606272" duration="36000" />
+      <workItem from="1588422159087" duration="17932000" />
+      <workItem from="1588510425952" duration="9221000" />
+      <workItem from="1588593127529" duration="6376000" />
+      <workItem from="1588625307917" duration="2573000" />
+      <workItem from="1588703596412" duration="1751000" />
+      <workItem from="1588758172493" duration="31421000" />
+      <workItem from="1588838829014" duration="23360000" />
+      <workItem from="1588927583915" duration="32035000" />
+      <workItem from="1589111238805" duration="1919000" />
+      <workItem from="1589132303876" duration="1396000" />
+      <workItem from="1589177590701" duration="12000" />
+      <workItem from="1589302974092" duration="16279000" />
+      <workItem from="1589384365204" duration="16559000" />
+      <workItem from="1589634027887" duration="6053000" />
+      <workItem from="1589880175342" duration="11993000" />
+      <workItem from="1589978223676" duration="2888000" />
+      <workItem from="1591513821407" duration="10684000" />
+      <workItem from="1591793921345" duration="1389000" />
+      <workItem from="1592222640902" duration="15458000" />
+      <workItem from="1592316950699" duration="10237000" />
+      <workItem from="1596208326130" duration="35000" />
     </task>
     <task id="LOCAL-00001" summary="some">
       <created>1575218997766</created>
@@ -159,7 +831,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575304952491</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="some1">
+      <created>1578151603821</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1578151603821</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -181,35 +860,313 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="一些改动" />
     <MESSAGE value="some" />
-    <option name="LAST_COMMIT_MESSAGE" value="some" />
+    <MESSAGE value="some1" />
+    <option name="LAST_COMMIT_MESSAGE" value="some1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/贪心策略与动态规划/背包问题01.java</url>
           <line>14</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/java基础/SynTest.java</url>
           <line>22</line>
           <option name="timeStamp" value="12" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/java基础/SynTest.java</url>
           <line>32</line>
           <option name="timeStamp" value="13" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/贪心策略与动态规划/最长上升子序列.java</url>
           <line>42</line>
           <option name="timeStamp" value="14" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/贪心策略与动态规划/最长上升子序列.java</url>
           <line>26</line>
           <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/线性结构/链表数字求和.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/树结构/非递归遍历.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/图结构/拓扑排序.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/图结构/Kruskal算法.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/图结构/城市建设_Kruskal水题.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/数组/快速排序.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/笔试题/快手/计算累计平方和.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/笔试题/快手/计算累计平方和.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="117" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/笔试题/华为/编码数目.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="119" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/笔试题/华为/购物单.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="121" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/笔试题/华为/匹配字符串.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="123" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/笔试题/华为/匹配字符串.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="125" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/笔试题/华为/调用函数栈.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="126" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/笔试题/美团/表达式求值.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="129" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/笔试题/美团/表达式求值.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="130" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/笔试题/美团/字符串模式匹配.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="131" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/笔试题/美团/不同行不同列最大值.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="132" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/笔试题/美团/不同行不同列最大值.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="133" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/笔试题/美团/不同行不同列最大值.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="134" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/笔试题/美团/美团骑手包裹区间分组.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="135" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/笔试题/美团/拓扑排序.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="136" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/笔试题/美团/拓扑排序.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="137" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/笔试题/美团/拓扑排序.java</url>
+          <line>72</line>
+          <option name="timeStamp" value="138" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/笔试题/美团/拓扑排序.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="139" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/笔试题/美团/单科成绩优秀奖.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="140" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/笔试题/美团/单科成绩优秀奖.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="141" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/笔试题/美团/伪随机数判断循环.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="142" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/笔试题/美团/伪随机数判断循环.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="143" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/笔试题/美团/找第k小的排列组合.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="144" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/笔试题/美团/伪中位数_快速排序应用.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="146" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/笔试题/阿里/勇士打怪兽.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="147" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/笔试题/阿里/城市最短路径问题.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="148" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/笔试题/阿里/城市最短路径问题.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="149" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/笔试题/广联达/链表的中间节点.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="150" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/笔试题/广联达/链表的中间节点.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="151" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/笔试题/广联达/所有括号.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="152" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/笔试题/广联达/数组期望升序.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="153" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/笔试题/广联达/弱智题.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="157" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/笔试题/华为/实习面试.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="158" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[129]求根到叶子节点数字之和.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="174" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[192]统计词频.java</url>
+          <option name="timeStamp" value="205" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/字符串/KMP算法.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="217" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/笔试题/趋势科技/环状链表.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="218" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/数组/manacher算法.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="219" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/数组/manacher算法.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="241" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/笔试题/阅文/移除一个数使乘积最大.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="259" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/笔试题/阅文/MD5.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="262" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/笔试题/vivo/最少测试次数.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="265" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/笔试题/vivo/工序.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="266" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/笔试题/vivo/工序.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="267" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/笔试题/vivo/工序.java</url>
+          <line>79</line>
+          <option name="timeStamp" value="268" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CCF/Solution.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="270" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CCF/Solution.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="273" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CCF/Solution.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="274" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/java基础/TCP/Client.java</url>
+          <line>7</line>
+          <properties class="java基础.TCP.Client" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="16" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
